@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'chunky_png', '1.2.9'
-gem 'multi_json', '1.11.2
+gem 'multi_json', '1.11.2'
 gem 'sass', '3.4.18'
 gem 'compass-core', '1.0.3'
 gem 'compass-import-once', '1.0.5'
